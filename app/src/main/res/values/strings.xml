@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PertemuanPertama</string>
+    <string name="biodata">BIODATA</string>
+    <string name="nama">Nama\t\t\t\t\t\t\t:</string>
+    <string name="alamat">Alamat\t\t\t\t\t\t:</string>
+    <string name="nohp">No HP\t\t\t\t\t\t\t:</string>
+    <string name="tgllahir">Tanggal Lahir\t\t:</string>
+    <string name="jenkel">Jenis Kelamin\t\t:</string>
+    <string name="status">Status\t\t\t\t\t\t:</string>
+    <string name="bpjs">Ikut BPJS\t\t\t\t:</string>
+    <string name="simpan">SIMPAN</string>
+</resources>
